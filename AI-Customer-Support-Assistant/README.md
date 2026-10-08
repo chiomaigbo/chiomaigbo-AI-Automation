@@ -1,3 +1,31 @@
+
+# AI Customer Support Assistant
+
+## Project Overview
+Developed an AI Customer Support Assistant interface using Lovable to support customer inquiries related to orders, billing, returns, and account-related issues.
+
+## Project Objectives
+- Improve customer inquiry handling.
+- Support faster and more consistent responses.
+- Provide a foundation for AI-assisted customer service.
+
+## Key Features
+- Customer inquiry submission interface
+- AI-assisted response drafting
+- Conversation history display
+- Proposed human-agent escalation for complex issues
+
+## Tools Used
+Lovable | AI-Assisted Customer Support Design
+
+## Business Value
+Demonstrates how AI-assisted customer support can reduce repetitive work, improve response consistency, and support better customer experiences.
+
+## Skills Demonstrated
+AI Assistant Design | Customer Support Automation | User Experience | Business Process Improvement
+
+## Additional Workflow
+Customer Complaint Management & Resolution Workflow — a separate conceptual business process design created using Whimsical for a fictional banking organization.
 ## Customer Complaint Management & Resolution Workflow
 
 ### Project Overview
