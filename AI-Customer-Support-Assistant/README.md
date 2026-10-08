@@ -1,20 +1,27 @@
-### Customer Complaint Management Workflow
+## Customer Complaint Management & Resolution Workflow
 
-Designed a customer complaint management workflow using Whimsical to illustrate the end-to-end handling of customer complaints in a banking environment.
+### Project Overview
+Designed an end-to-end customer complaint management workflow using Whimsical for Cherish Bank, a fictional banking organization. The workflow illustrates how customer complaints can be registered, validated, categorized, escalated, investigated, resolved, and closed efficiently.
 
-The workflow covers complaint registration, customer information validation, automated ticket creation, severity assessment, escalation, investigation, approval, resolution, and customer satisfaction feedback.
-
-**Key features:**
+### Key Features
 - Automated complaint logging and unique ticket assignment
 - Customer information validation
 - Complaint categorization and severity assessment
 - Escalation of critical complaints to specialist teams
-- Resolution approval and customer notification
-- Complaint reopening and further investigation where necessary
+- Investigation and resolution approval
+- Customer notification and complaint reopening when necessary
 - Ticket closure and customer satisfaction surveys
 
-**Tools:** Whimsical (process mapping)
+### Tools Used
+- Whimsical – Process mapping and workflow visualization
 
-**Skills demonstrated:** Business Process Mapping, Workflow Design, Business Analysis, Customer Service Operations, Escalation Management, and Process Improvement.
+### Skills Demonstrated
+- Business Process Mapping
+- Business Analysis
+- Workflow Design
+- Customer Service Operations
+- Escalation Management
+- Process Improvement
 
-*Note: This is a process design illustrating a proposed complaint management workflow, not evidence of a deployed automation.*s.
+### Project Type
+Conceptual business process design developed for portfolio demonstration. The workflow illustrates proposed automation and decision logic; it is not a deployed system.
