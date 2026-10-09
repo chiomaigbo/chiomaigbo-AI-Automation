@@ -25,16 +25,47 @@ Improves financial process efficiency, reduces repetitive administrative work, a
 ## Skills Demonstrated
 AI Automation | Workflow Design | API Integration | Financial Operations | Data Management | Business Process Improvement
 
-### Project Evidence
 
-This project demonstrates the development of an AI-assisted expense management solution that integrates financial data collection, intelligent expense categorization, automated approval routing, and dashboard reporting.
+## 📁 Project Evidence & Documentation
 
-Supporting documentation includes:
+The following screenshots and documentation demonstrate the end-to-end AI-powered expense management solution, including expense processing, approval routing, reporting, and dashboard visualization.
 
-- **Finance Dashboard:** Displays submitted expenses, approval statuses, financial summaries, and departmental spending.
-- **Automation Workflow:** Illustrates how Make, Gemini AI, Airtable, and other integrated applications process expense submissions.
-- **Expense Submission:** Demonstrates how employees submit expense information and supporting receipts.
-- **Manager Approval:** Shows the approval and rejection process for expenses requiring management review.
-- **Project Report:** Documents the business problem, solution design, implementation, testing, and business value.
+### 1. AI Expense Automation Workflow
+
+![AI Expense Automation Workflow](01-AI-Expense-Automation-Workflow.png)
+
+This Make workflow integrates webhooks, Gemini AI, Airtable, routers, Gmail, and HTTP modules to process expense submissions and update expense statuses.
+
+### 2. Manager Expense Approval Workflow
+
+![Manager Expense Approval Workflow](02-Manager-Expense-Approval-Workflow.png)
+
+This workflow processes manager approval and rejection decisions, updates Airtable records, sends email notifications, and synchronizes expense statuses with the application.
+
+### 3. Automated Expense Summary Report
+
+![Expense Summary Report Workflow](03-Expense-Summary-Report-Workflow.png)
+
+This workflow retrieves expense records from Airtable, aggregates the information, uses Gemini AI to generate a summary, and sends the report through Gmail.
+
+### 4. Finance Dashboard
+
+![AI Business Expense and Financial Document Assistant - Finance Dashboard](AI%20Business%20Expense%20and%20Financial%20Document%20Assistant%20%E2%80%94%20Lovable%20finance.png)
+
+
+The Lovable finance dashboard displays total submitted expenses, approval statuses, recent submissions, and departmental spending.
+
+### 5. Project Report
+
+📄 [View AI Business Expense & Financial Assistant Project Report](AI_Business_Expense_Financial_Assistant_Report_chioma_igbo.pdf)
+
+The report provides additional documentation of the project, including its business problem, solution design, implementation, and outcomes.
+
+---
+
+**Core Technologies:** Make | Gemini AI | Airtable | Lovable | Google Sheets | Gmail | Webhooks | APIs
+
+**Skills Demonstrated:** AI Automation | Workflow Design | Systems Integration | Financial Operations | Reporting | Business Process Improvement
+  
 
 The solution demonstrates practical skills in AI automation, business process improvement, systems integration, and financial operations.
