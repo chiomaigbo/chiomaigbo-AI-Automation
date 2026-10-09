@@ -25,5 +25,16 @@ Improves financial process efficiency, reduces repetitive administrative work, a
 ## Skills Demonstrated
 AI Automation | Workflow Design | API Integration | Financial Operations | Data Management | Business Process Improvement
 
-## Project Evidence
-Finance dashboard screenshot and supporting workflow documentation.
+### Project Evidence
+
+This project demonstrates the development of an AI-assisted expense management solution that integrates financial data collection, intelligent expense categorization, automated approval routing, and dashboard reporting.
+
+Supporting documentation includes:
+
+- **Finance Dashboard:** Displays submitted expenses, approval statuses, financial summaries, and departmental spending.
+- **Automation Workflow:** Illustrates how Make, Gemini AI, Airtable, and other integrated applications process expense submissions.
+- **Expense Submission:** Demonstrates how employees submit expense information and supporting receipts.
+- **Manager Approval:** Shows the approval and rejection process for expenses requiring management review.
+- **Project Report:** Documents the business problem, solution design, implementation, testing, and business value.
+
+The solution demonstrates practical skills in AI automation, business process improvement, systems integration, and financial operations.
